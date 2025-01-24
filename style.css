@@ -121,3 +121,28 @@ body{
     width: 100%;
     margin: 0px;
 }
+
+.quote{
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 500px;
+    margin: 0px;
+    gap: 3px;
+    
+}
+
+.quote p{
+    margin: 0px;
+    font-size: 36px;
+    font-style: italic;
+    font-weight:300;
+}
+
+#author{
+    font-size: 25px;
+    align-self: flex-end;
+    font-weight: bold;
+}

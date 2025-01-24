@@ -28,3 +28,60 @@ body{
     color: #e5e7eb;
     text-decoration: none;
 }
+
+.principal{
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 240px;
+    margin: 0px;
+    height: 300px;
+    gap: 40px;
+    
+    
+}
+
+.info{
+    height: 100%;
+}
+
+.info h1{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+    margin: 0px;
+    font-weight: 900;
+}
+
+.info p{
+    font-size: 18px;
+    color: #e5e7eb;
+    padding: 10px 20px 10px 0px;
+    
+
+}
+
+.info button{
+    background-color: #3882f6;
+    color: #f9faf8;
+    font-size: 18px;
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: none;
+
+}
+
+.image{
+    background-color: gray;
+    justify-content: center;
+    display: flex;  
+    align-items: center;
+    height: 90%;
+    width:800px;
+}
+
+.image p{
+    text-align: center;
+    font-size: 16px;
+    color: #e5e7eb;
+}

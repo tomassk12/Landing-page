@@ -146,3 +146,47 @@ body{
     align-self: flex-end;
     font-weight: bold;
 }
+
+.calltoaction{
+    padding: 70px 200px;
+    margin: 100px 200px;
+    background-color: #3882f6;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.call h3{
+    color: #f9faf8;
+    font-size: 25px;
+    font-weight: 900;
+    margin: 0px;
+}
+
+.call p{
+    color: #e5e7eb;
+    font-size: 18px;
+    margin: 0px;
+}
+
+.calltoaction button{
+    border : solid 2px #f9faf8;
+    border-radius: 10px;
+    color: #f9faf8;
+    font-size: 18px;
+    padding: 10px 30px;
+    background-color: #3882f6;
+}
+
+footer{
+    background-color: #1f2937;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    margin: 0px;
+    padding: 20px
+}

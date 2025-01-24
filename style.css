@@ -1,0 +1,30 @@
+body{
+    font-family: "Roboto", serif;
+    font-optical-sizing: auto;
+    margin: 0;
+}
+
+.header{
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 240px;
+    margin: 0px;
+}
+
+.logo{
+    font-size: 24px;
+    color: #f9faf8;
+    
+}
+
+.links{
+    font-size: 18px;
+    display: flex;
+    gap: 20px;
+}
+
+.links a{
+    color: #e5e7eb;
+    text-decoration: none;
+}
